@@ -1,0 +1,29 @@
+### Introduction to Machine Learning  
+Welcome to machine learning. For this machine learning, you probably use it many times a day without even knowing it.
+
+### Web Search Applications  
+Anytime you want to find out something like, how do I make a sushi roll? You can do a web search on Google Bing or Baidu to find out. And that works so well because their machine learning software has figured out how to rank web pages.
+
+### Social Media and Image Recognition  
+Or when you upload pictures to Instagram or Snapchat and think to yourself, I want to tag my friends so they can see their pictures. Well, these apps can recognize your friends in your pictures and label them as well. That's also machine learning.
+
+### Recommendation Systems  
+Or if you've just finished watching a Star Wars movie on the video streaming service and you think, what other similar movies could I watch? Well, the streaming service will likely use machine learning to recommend something that you might like.
+
+### Voice Assistants and Speech Recognition  
+Each time you use voice to text on your phone to write a text message, Hey Andrew, how's it going? Or tell your phone, hey Siri, play a song by Rihanna or ask your other phone, okay Google, show me Indian restaurants near me. That's also machine learning.
+
+### Spam Detection  
+Each time you receive an email titled, congratulations, you've won a million dollars. Well maybe a rich congratulations or more likely your email service will probably flag it as spam. That too is an application of machine learning.
+
+### Industrial and Enterprise Applications  
+Beyond consumer applications that you might use, AI is also rapidly making its way into big companies and into industrial applications. For example, I'm deeply concerned about climate change and I'm glad to see that machine learning is already hoping to optimize wind turbine power generation. Or in healthcare, it's starting to make its way into hospitals to help doctors make accurate diagnoses. Or recently at learning AI, I've been doing a lot of work putting computer vision into factories to help inspect if something coming off the assembly line has any defects. That's machine learning.
+
+### Definition of Machine Learning  
+This is a science of getting computers to learn without being explicitly programmed.
+
+### Course Overview and Motivation  
+In this class, you learn about machine learning and get to implement machine learning in code yourself. Millions of others have taken the earlier version of this course, which is of course the lead to the founding of Coursera. And many learners ended up building exciting machine learning systems or even pursuing very successful careers in AI.
+
+### Final Welcome  
+I'm excited that you're on this journey with me. Welcome and let's get started.
